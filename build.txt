@@ -1,0 +1,6 @@
+author = Senyour Spooks
+version = 1.51
+displayName = Eureka
+hideResources = true
+hideCode = true
+homepage = https://forums.terraria.org/index.php?threads/eureka-mod.80873/
