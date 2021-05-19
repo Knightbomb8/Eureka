@@ -20,3 +20,5 @@ V1.1
 
 Release - V1.0
 -Hellstone Spinner made from demon scythe and 15 hellstone bars (spins around the player and homes in on enemies as they approach)
+
+GARRICK WAS HERE
